@@ -20,4 +20,5 @@ Insert into tcliente2 values ('40404040','GOMEZ GOMEZ MARIA','M','CC',TO_DATE('0
 Insert into tcliente2 values ('50505050','TORRES CINCO BENITO','TO','AA',TO_DATE('09/08/1998','DD/MM/YYYY'),'003',0200000);
 Insert into tcliente2 values ('60606060','ROLDAN GUARDIA JOSE','CC','DD',TO_DATE('01/01/1998','DD/MM/YYYY'),'001',0100000);
 Insert into tcliente2 values ('70707070','PINO ALTO LUISA','Z','AA',TO_DATE('12/04/1996','DD/MM/YYYY'),'001',0400000);
+Insert into tcliente2 values ('80808080','LOPEZ PEREZ RAMON','Z','AA',TO_DATE('12/04/1995','DD/MM/YYYY'),'001',0400000);
 COMMIT;
